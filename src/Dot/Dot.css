@@ -1,0 +1,9 @@
+.dotka{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+    border-radius: 50%;
+}
